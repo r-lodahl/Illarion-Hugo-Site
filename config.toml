@@ -1,0 +1,4 @@
+baseURL = "https://c107-243.cloud.gwdg.de/"
+languageCode = "en-us"
+title = "Illarion"
+theme = "hugo-bootstrap"
